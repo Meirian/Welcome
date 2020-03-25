@@ -16,8 +16,8 @@ This training will provide a gentle introduction to basic Ubuntu usage, includin
 This training aims to enable students to:
 
 * [ ] familiarise themselves with the Ubuntu desktop and find for applications such as Git, LaTeX, MATLAB, Python, RStudio and a text editor;
-* [ ] use basic terminal commands such as &lt;ls&gt; and &lt;cd&gt;;
-* [ ] install software using &lt;sudo&gt; commands;
+* [ ] use basic terminal commands such as `ls` and `cd`;
+* [ ] install software using `sudo` commands;
 * [ ] access data on their virtual machine.
 
 ### Generic skills
