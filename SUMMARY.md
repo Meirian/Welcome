@@ -14,6 +14,6 @@
   * [Signing into your Virtual Machine](your-virtual-machine/signing-into-your-virtual-machine.md)
   * [Familiarity with the Ubuntu Desktop](your-virtual-machine/familiarity-with-the-ubuntu-desktop.md)
 * [The Command Line](the-command-line.md)
-* [Super User DO](super-user-do.md)
+* [Becoming a Super User](super-user-do.md)
 * [Accessing Your Data](accessing-your-data.md)
 
