@@ -12,8 +12,6 @@ For more information about _Research Computing Services_, please visit:
 
 Sign up to attend our free training and community events on Eventbrite:
 
-
-
 ### 
 
 
