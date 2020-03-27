@@ -12,6 +12,8 @@
     * [Research Computing Services](https://research.unimelb.edu.au/infrastructure/research-computing-services)
     * [COVID-19 Updates](http://www.unimelb.edu.au/coronavirus)
     * [Free Training and Events](http://rescomunimelb.eventbrite.com)
+  * [X2Go](https://meirian.github.io/X2Go)
 * [Pitch](pitch/README.md)
+  * [Getting started](pitch/getting-started.md)
   * [Slides](pitch/slides.md)
 
