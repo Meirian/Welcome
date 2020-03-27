@@ -8,9 +8,10 @@
   * [Dates and Times](welcome-1/dates-and-times.md)
 * [Resources](resources/README.md)
   * [Cheat sheets](resources/cheat-sheets.md)
-  * [Slides](resources/slides.md)
   * [Websites](resources/websites/README.md)
     * [COVID-19 Updates](http://www.unimelb.edu.au/coronavirus)
     * [Free Training and Events](http://rescomunimelb.eventbrite.com)
-    * [Research Computing Services](https://research.unimelb.edu.au/infrastructure/research-computing-services)
+* [Pitch](pitch/README.md)
+  * [Research Computing Services](https://research.unimelb.edu.au/infrastructure/research-computing-services)
+  * [Slides](pitch/slides.md)
 
