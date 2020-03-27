@@ -9,9 +9,9 @@
 * [Resources](resources/README.md)
   * [Cheat sheets](resources/cheat-sheets.md)
   * [Websites](resources/websites/README.md)
+    * [Research Computing Services](https://research.unimelb.edu.au/infrastructure/research-computing-services)
     * [COVID-19 Updates](http://www.unimelb.edu.au/coronavirus)
     * [Free Training and Events](http://rescomunimelb.eventbrite.com)
 * [Pitch](pitch/README.md)
-  * [Research Computing Services](https://research.unimelb.edu.au/infrastructure/research-computing-services)
   * [Slides](pitch/slides.md)
 
