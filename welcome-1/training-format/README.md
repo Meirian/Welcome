@@ -1,4 +1,4 @@
-# Training format
+# Training Format
 
 The material in this training is presented in a variety of different formats, including videos, structured readings and activities.
 
