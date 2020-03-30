@@ -4,7 +4,7 @@
 
 **Please note: this GitBook is currently under maintenance, and materials presented here are not yet complete.**
 
-
+![Ubuntu Logo. Source: https://design.ubuntu.com/brand/ubuntu-logo. \(2020\).](.gitbook/assets/ubuntu-logo14.png)
 
 Welcome to Cloud Computing with Ubuntu, presented to you by _Research Computing Services_. We offer free workshops and community events for researchers throughout the year to teach the valuable digital tool skills needed to take your research to the next level. We are researchers, training researchers!
 
