@@ -6,7 +6,7 @@ Hi, I'm Meirian.
 
 I am a teacher, consultant and senior community co-ordinator at the University of Melbourne. I offer training in Ubuntu and LaTeX at Research Computing Services. My other areas of interest include data analysis, operations research and statistics, which I also have the pleasure of teaching at the University.
 
-I love teaching and am enthusiastic about enabling others to benefit from the skills that I teach! Get in touch with me for more information about LaTeX training, events, and community support:
+I love teaching and am enthusiastic about enabling others to benefit from the skills that I teach! Get in touch with me for more information about Ubuntu training, events, and community support:
 
 {% tabs %}
 {% tab title="Twitter" %}
