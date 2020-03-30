@@ -4,7 +4,7 @@
 * [Welcome](welcome-1/README.md)
   * [Training format](welcome-1/training-format.md)
   * [Eligibility and Requirements](welcome-1/eligibility-and-requirements.md)
-  * [Expectations and Assessment](welcome-1/assessment.md)
+  * [Expectations](welcome-1/assessment.md)
   * [Dates and Times](welcome-1/dates-and-times.md)
 * [Resources](resources/README.md)
   * [Cheat sheets](resources/cheat-sheets.md)
