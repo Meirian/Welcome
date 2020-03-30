@@ -1,5 +1,7 @@
 # Training format
 
+The material in this training is presented in a variety of different formats, including videos, structured readings and activities.
+
 ### The pitch
 
 A short 30 minute session introducing you to LaTeX. The pitch provides an opportunity to gain some basic skills, try out the tool, and engage in a team challenge.

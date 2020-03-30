@@ -2,6 +2,7 @@
 
 * [Cloud Computing with Ubuntu](README.md)
 * [Welcome](welcome-1/README.md)
+  * [Trainer](welcome-1/trainer.md)
   * [Training format](welcome-1/training-format.md)
   * [Eligibility and Requirements](welcome-1/eligibility-and-requirements.md)
   * [Expectations](welcome-1/assessment.md)
