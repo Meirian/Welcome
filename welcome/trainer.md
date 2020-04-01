@@ -1,6 +1,6 @@
 # Welcome
 
-![Meirian Lovelace-Tozer. Photo credit: Eric Jong. \(2019\).](../.gitbook/assets/meirian_old_quad.jpg)
+![Meirian Lovelace-Tozer. Photo credit: Eric Jong. \(2019\).](../.gitbook/assets/meirian.jpg)
 
 Hi, I'm Meirian.
 
@@ -8,26 +8,11 @@ I am a teacher, consultant and senior community co-ordinator at the University o
 
 Get in touch with me for more information about Ubuntu training, events, and community support:
 
-{% tabs %}
-{% tab title="Twitter" %}
-Follow or tweet at me on [@MeirianLT](www.twitter.com/MeirianLT) and [@ResCom\_unimelb](https://twitter.com/ResCom_unimelb).
-{% endtab %}
-
-{% tab title="YouTube" %}
-Check out some of our videos and subscribe to the [ResCom Team](https://www.youtube.com/channel/UCGWU-ESE1j2vCJTACZHHLGQ)!
-{% endtab %}
-
-{% tab title="Instagram" %}
-Check out our photos and gifs on the [ResCom\_unimelb Instagram](https://www.instagram.com/rescom_unimelb).
-{% endtab %}
-
-{% tab title="Email" %}
-Email me at: mlovelace\(at\)unimelb.edu.au  
+* Twitter: Follow or tweet at me on [@MeirianLT](www.twitter.com/MeirianLT) and [@ResCom\_unimelb](https://twitter.com/ResCom_unimelb).
+* YouTube: Watch some of our videos and subscribe to the [ResCom Team](https://www.youtube.com/channel/UCGWU-ESE1j2vCJTACZHHLGQ)!
+* Instagram: Check out our photos and gifs on the [ResCom\_unimelb Instagram](https://www.instagram.com/rescom_unimelb).
+* Email: Get in contact with me at: mlovelace\(at\)unimelb.edu.au  
 \(Replace the "\(at\)" with the "@" symbol\).
-{% endtab %}
-{% endtabs %}
-
-
 
 I look forward to meeting you at our next training!
 
