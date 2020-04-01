@@ -1,6 +1,6 @@
 # Welcome
 
-![Meirian Lovelace-Tozer. Photo credit: Eric Jong. \(2019\).](../.gitbook/assets/meirian.jpg | 100)
+![Meirian Lovelace-Tozer. Photo credit: Eric Jong. \(2019\).](../.gitbook/assets/meirian.jpg)
 
 Hi, I'm Meirian.
 
