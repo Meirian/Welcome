@@ -1,4 +1,4 @@
 # Slides
 
-{% file src="../.gitbook/assets/ubuntu\_training.pdf" caption="Ubuntu Training Slides" %}
+[Ubuntu Training Slides](../.gitbook/assets/ubuntu\_training.pdf)
 

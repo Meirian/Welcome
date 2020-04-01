@@ -1,33 +1,25 @@
-# Welcome
+# Training overview
 
-![Meirian Lovelace-Tozer. Photo credit: Eric Jong. \(2019\).](../.gitbook/assets/meirian_old_quad.jpg)
+* Are you concerned about viruses and malware? 
+* Do you hate it when your computer is running slow or crashes? 
+* Are you looking for stability and dependability? 
+* Do you like free things?
 
-Hi, I'm Meirian.
+Ubuntu is a free and open source Linux distribution. We recommend Linux to researchers at the University of Melbourne because most research software is written on and for Linux.
 
-I am a teacher, consultant and senior community co-ordinator at the University of Melbourne. I offer training in Ubuntu and LaTeX at Research Computing Services. My other areas of interest include data analysis, operations research and statistics, which I also have the pleasure of teaching at the University. I love teaching and am enthusiastic about enabling others to benefit from the skills that I teach! 
+This training will provide a gentle introduction to basic Ubuntu usage, including logging into a virtual machine, basic commands in the terminal, sudo commands, installing software on Ubuntu, and transferring data to and from your virtual machine.
 
-Get in touch with me for more information about Ubuntu training, events, and community support:
+### Learning objectives
 
-{% tabs %}
-{% tab title="Twitter" %}
-Follow or tweet at me on [@MeirianLT](www.twitter.com/MeirianLT) and [@ResCom\_unimelb](https://twitter.com/ResCom_unimelb).
-{% endtab %}
+This training aims to enable students to:
 
-{% tab title="YouTube" %}
-Check out some of our videos and subscribe to the [ResCom Team](https://www.youtube.com/channel/UCGWU-ESE1j2vCJTACZHHLGQ)!
-{% endtab %}
+* [ ] familiarise themselves with the Ubuntu desktop and find for applications such as Git, LaTeX, MATLAB, Python, RStudio and a text editor;
+* [ ] use basic terminal commands such as ls and cd;
+* [ ] install software using sudo commands;
+* [ ] access data on their virtual machine.
 
-{% tab title="Instagram" %}
-Check out our photos and gifs on the [ResCom\_unimelb Instagram](https://www.instagram.com/rescom_unimelb).
-{% endtab %}
+### Learning outcomes: Research methodology
 
-{% tab title="Email" %}
-Email me at: mlovelace\(at\)unimelb.edu.au  
-\(Replace the "\(at\)" with the "@" symbol\).
-{% endtab %}
-{% endtabs %}
-
-
-
-I look forward to meeting you at our next training!
-
+* Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;
+* Computational skills: the ability to adapt existing computational methods and tools to complete a target task;
+* Problem solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies.

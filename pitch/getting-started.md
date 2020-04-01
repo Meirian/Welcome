@@ -5,5 +5,5 @@
 
 Don't worry, we have more detailed instructions \(with screenshots\) for you here:
 
-
+[http://meirian.github.io/X2Go]
 
