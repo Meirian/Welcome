@@ -6,9 +6,9 @@ The material in this training is presented in a variety of different formats, in
 
 Whilst we are practicing social distancing, we will be hosting Zoom sessions. These sessions will include a pitch, followed by a meet-up (see below).
 
-Duration: one to two hours.
-Mode: online, using Zoom.
-Frequency: monthly.
+* Duration: one to two hours.
+* Mode: online, using Zoom.
+* Frequency: monthly.
 
 ## The pitch
 
@@ -30,7 +30,7 @@ A full introductory workshop.
 
 An opportunity to ask questions, learn some tips and tricks, see some exemplars and get to know the community that is actively using `Tool`. Also known as a data lab, hacky hour or drop-in.
 
-Duration: one to two hours.
-Mode: typically in-person.
-Frequency: monthly.
+* Duration: one to two hours.
+* Mode: typically in-person.
+* Frequency: monthly.
 
