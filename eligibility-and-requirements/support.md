@@ -17,9 +17,9 @@ For further support as a student and/or researcher at the University of Melbourn
 * international student support;
 * accommodation;
 * student equity and disability support;
-* support and advice for indigenous students \(Murrup Barak\);
+* support and advice for indigenous students (Murrup Barak);
 * diversity and inclusion;
-* and general advice and help \(Stop 1\).
+* and general advice and help (Stop 1).
 
 ## Inclusivity and accessibility
 
