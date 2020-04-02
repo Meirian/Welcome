@@ -12,6 +12,6 @@ This training aims to enable students to:
 
 * [ ] `list objectives (these should match those listed on the feedback survey).`
 
-## Learning outcomes: Research methodology
+## Learning outcomes
 
 * `Analytical/Computational/Problem solving/Collaborative` skills: `description of this skill`.
