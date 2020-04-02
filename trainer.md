@@ -15,17 +15,7 @@ Get in touch with me for more information about Ubuntu training, events, and com
 
 I look forward to meeting you at our next training!
 
+---
 
-Continue to [Training format](training-format/README.md).
-
-Or visit one of the following pages:
-
-* [Welcome page](README.md)
-* [About this training](overview.md)
-* About the trainer (you're already here)
-* [Training format](training-format/README.md)
-    * [Dates and times](training-format/dates-and-times.md)
-* [Eligibility and requirements](eligibility-and-requirements/README.md)
-    * [Expectations](eligibility-and-requirements/expectations.md)
-    * [Support](eligibility-and-requirements/support.md)
+Continue to [Training format](training-format/README.md), or (re)visit one of the other pages listed [here](SUMMARY.md).
 

@@ -32,17 +32,7 @@ An opportunity to ask questions, learn some tips and tricks, see some exemplars 
 * Mode: typically in-person.
 * Frequency: monthly.
 
+---
 
-Continue to [Dates and times](training-format/dates-and-times.md).
-
-Or visit one of the following pages:
-
-* [Welcome page](../README.md)
-* [About this training](../overview.md)
-* [About the trainer](../trainer.md)
-* Training format (you're already here)
-    * [Dates and times](dates-and-times.md)
-* [Eligibility and requirements](../eligibility-and-requirements/README.md)
-    * [Expectations](../eligibility-and-requirements/expectations.md)
-    * [Support](../eligibility-and-requirements/support.md)
+Continue to [Dates and times](training-format/dates-and-times.md), or (re)visit one of the other pages listed [here](../SUMMARY.md).
 

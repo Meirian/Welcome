@@ -27,16 +27,7 @@ The University of Melbourne is committed to providing students with reasonable a
 
 Further details can be found on the Student Equity and Disability Support website: http://services.unimelb.edu.au/student-equity/home.
 
+---
 
-Return to one of the following pages:
-
-* [Welcome page](../README.md)
-* [About this training](../overview.md)
-* [About the trainer](../trainer.md)
-* [Training format](../training-format/README.md)
-    * [Dates and times](../training-format/dates-and-times.md)
-* [Eligibility and requirements](README.md)
-    * [Expectations](expectations.md)
-    * Support (you're already here)
-
+Congratulations, you've reached the end of this documentation! You can revisit any of the pages listed [here](../SUMMARY.md).
 

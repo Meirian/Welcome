@@ -14,17 +14,7 @@
 * [ ] a laptop charger;
 * [ ] and if you are attending one of our Zoom workshops, you must download Zoom. Instructions on how to do this are provided here: [https://lms.unimelb.edu.au/students/student-guides/zoom](https://lms.unimelb.edu.au/students/student-guides/zoom).
 
+---
 
-Continue to [Expectations](expectations.md).
-
-Or visit one of the following pages:
-
-* [Welcome page](../README.md)
-* [About this training](../overview.md)
-* [About the trainer](../trainer.md)
-* [Training format](../training-format/README.md)
-    * [Dates and times](../training-format/dates-and-times.md)
-* Eligibility and requirements (you're already here)
-    * [Expectations](expectations.md)
-    * [Support](support.md)
+Continue to [Expectations](expectations.md), or (re)visit one of the other pages listed [here](../SUMMARY.md).
 
