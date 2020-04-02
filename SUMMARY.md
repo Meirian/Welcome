@@ -1,3 +1,5 @@
+# Table of contents
+
 * [Welcome page](README.md)
 * [About this training](overview.md)
 * [About the trainer](trainer.md)
