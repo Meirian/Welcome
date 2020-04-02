@@ -1,6 +1,6 @@
 # Eligibility and Requirements
 
-# What do you need to know before you come?
+## What do you need to know before you come?
 
 **No prior knowledge of `Tool` is required.**
 
