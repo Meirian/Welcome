@@ -1,8 +1,8 @@
 # Eligibility and Requirements
 
-## What do you need to know before you come?
+# What do you need to know before you come?
 
-### No prior knowledge of **`Tool`** is required.
+**No prior knowledge of `Tool` is required.**
 
 **My trainings are accessible and encourage participation. We want you to come in curious and willing to meet other researchers!**
 
