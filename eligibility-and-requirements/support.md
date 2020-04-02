@@ -4,7 +4,7 @@ We strongly encourage you to support one another whilst undertaking this trainin
 
 During the training, your Trainer and ResLeads will be available to support your learning. Our ResLeads are valued community members who volunteer their time to help new users of the tools we teach!*
 
-For sensitive or personal matters that you do not wish to post in the discussion forums, please email the trainer (for contact details, see [Trainer](../trainer.md)). We will do our best to respond to all emails in a timely fashion; however, please bear in mind that there may be a large number of students undertaking this training.
+For sensitive or personal matters that you do not wish to post in the discussion forums, please email the trainer (for contact details, click [here](../trainer.md)). We will do our best to respond to all emails in a timely fashion; however, please bear in mind that there may be a large number of students undertaking this training.
 
 *You can become a ResLead too! For more information and to express interest, please contact your Trainer.
 
